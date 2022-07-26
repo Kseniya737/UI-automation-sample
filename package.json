@@ -1,0 +1,21 @@
+{
+  "name": "UI-automation-sample",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://dev.azure.com/ksenya-37/UI-automation-sample/_apis/build/status/Kseniya737.UI-automation-sample?branchName=main)](https://dev.azure.com/ksenya-37/UI-automation-sample/_build/latest?definitionId=9&branchName=main)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kseniya737/UI-automation-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kseniya737/UI-automation-sample/issues"
+  },
+  "homepage": "https://github.com/Kseniya737/UI-automation-sample#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.1"
+  }
+}
