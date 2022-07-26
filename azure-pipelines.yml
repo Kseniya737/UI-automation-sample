@@ -8,6 +8,8 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
+  name: N2-KRAKOW
+  demands: -agent.name -equals N2-KRAKOW
 
 steps:
 - script: echo Hello, world!
