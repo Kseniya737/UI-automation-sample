@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  name: N2-KRAKOW
+  name: Default
   demands: -agent.name -equals N2-KRAKOW
 
 steps:
