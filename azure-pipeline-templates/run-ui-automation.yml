@@ -6,5 +6,6 @@ steps:
   displayName: 'setting-up an environment'
 
 - script: |
-    npm test
+    cd e2e
+    npm run cucumber
   displayName: 'running ui tests'
